@@ -1,14 +1,21 @@
-# How install
+# Usage
 
-## npm i 
-
-# How run 
-## npx playwright test##
-
-
+##### Before running the test for the first time, install node.js(only once).
+1. Install dependencies:
+```bash
+npm install 
+```
+2. How run 
+ ```bash
+npx playwright test
+```
+3.
+```bash
 ## npx playwright test --browser=firefox --headed
+```
 
-REPORT
+
+# REPORT
 
 # Install
 npm i -D allure-playwright
