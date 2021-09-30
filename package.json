@@ -19,15 +19,7 @@
   "scripts": {
     "test": "npx playwright test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/landriiuk/Playwright-my-test-frame.git"
-  },
   "keywords": [],
   "author": "Liubov Andriiuk",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/landriiuk/Playwright-my-test-frame/issues"
-  },
-  "homepage": "https://github.com/landriiuk/Playwright-my-test-frame#readme"
+  "license": "ISC"
 }
