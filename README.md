@@ -7,7 +7,7 @@ npm install
 ```
 2. How run 
  ```bash
-npx playwright test
+npm run test
 ```
 3.
 ```bash
